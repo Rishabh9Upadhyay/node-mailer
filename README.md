@@ -1,4 +1,4 @@
-##Node Mailer
+# # Node Mailer
 #An node application to send mail using google SMPT protocol
 
 #Setup Info
