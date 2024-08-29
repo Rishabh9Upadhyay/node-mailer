@@ -1,8 +1,6 @@
 const http = require("http");
 const nodemailer = require("nodemailer");
 
-console.log("hgierhfterktjl;rtkk4rt;lykjr")
-
 const auth = nodemailer.createTransport({
     service: "gmail",
     secure: true,
